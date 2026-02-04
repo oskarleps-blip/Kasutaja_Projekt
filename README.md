@@ -1,9 +1,3 @@
-Jah, ikka! Korralik `README.md` on koolitöös väga oluline, sest see selgitab õpetajale, mida sinu projekt teeb ja kuidas seda käivitada.
-
-Siin on sulle valmis faili sisu. Kopeeri see ja salvesta nimega **`README.md`**.
-
----
-
 # Windowsi Kasutajate Haldusskriptid
 
 See projekt koosneb PowerShell skriptidest, mille eesmärk on automatiseerida Windowsi kohalike kasutajate (Local Users) loomist ja kustutamist CSV faili põhjal. Skriptid on loodud töötama Windows 10/11 keskkonnas.
